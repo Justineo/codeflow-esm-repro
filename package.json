@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"prepare": "node -r esm ./init.js"
+	},
+	"dependencies": {
+		"esm": "^3.2.25"
+	}
+}
